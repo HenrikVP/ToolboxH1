@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Loops.ForMethodWithModulus();
+            //Loops.ForMethodWithModulus();
+            Conditions.SwitchCase1();
         }
     }
 }
